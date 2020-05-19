@@ -4,7 +4,8 @@
  * and open the template in the editor.
  */
 package main;
-
+// Antonio López López 
+//IES TRASSIERRA Cordoba
 import java.util.List;
 import javax.swing.table.DefaultTableModel;
 import newpackage.Film;

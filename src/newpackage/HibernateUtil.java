@@ -4,7 +4,8 @@
  * and open the template in the editor.
  */
 package newpackage;
-
+// Antonio López López 
+//IES TRASSIERRA Cordoba
 import org.hibernate.cfg.AnnotationConfiguration;
 import org.hibernate.SessionFactory;
 

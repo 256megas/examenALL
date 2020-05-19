@@ -1,7 +1,8 @@
 package newpackage;
 // Generated 25-ene-2019 16:47:08 by Hibernate Tools 4.3.1
 
-
+// Antonio López López 
+//IES TRASSIERRA Cordoba
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
